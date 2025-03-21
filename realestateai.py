@@ -694,4 +694,5 @@ def show_sell_page():
         # Image uploader
         uploaded_files = st.file_uploader(
             "Upload Property Images",
-            type=["jpg", "jpeg",
+            type=["jpg", "jpeg",]
+            
